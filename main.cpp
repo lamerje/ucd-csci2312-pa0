@@ -7,7 +7,7 @@
 #include <iostream>
 
 int main();  
-    std::cout << "Hello, world! My number is " << 106563537 << '!' << std::endl;
+    std::cout << "Hello, world! My number is " << 2 << '!' << std::endl;
 
     return 0;
 }
